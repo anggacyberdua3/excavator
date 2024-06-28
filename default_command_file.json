@@ -1,10 +1,10 @@
 [
 	{"time":0,"commands":[
-		{"id":1,"method":"subscribe","params":["nhmp-ssl.usa.nicehash.com:443","34HKWdzLxWBduUfJE9JxaFhoXnfC6gmePG.testrig"]},
+		{"id":1,"method":"subscribe","params":["nhmp-ssl.usa.nicehash.com:443","NHbMwv2882LxdEPAfs9SuywSVqeJAw6FQvyW.testrig"]},
 		{"id":1,"method":"algorithm.add","params":["daggerhashimoto"]}
 	]},
 	{"time":1,"commands":[
-		{"id":1,"method":"worker.add","params":["daggerhashimoto","0"]}
+		{"id":1,"method":"worker.add","params":["NHbMwv2882LxdEPAfs9SuywSVqeJAw6FQvyW","0"]}
 	]},
 	{"time":15,"loop":15,"commands":[
 	  	{"id":1,"method":"worker.print.efficiencies","params":[]},
